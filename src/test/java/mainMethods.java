@@ -10,8 +10,8 @@ import org.openqa.selenium.WebElement;
 
 public class mainMethods extends openURL {   
 
-    private String googleSearch="//textarea[@class='gLFyf']";
-    private String clickSearch="//input[@name='btnK']";
+    // private String googleSearch="//textarea[@class='gLFyf']";
+    // private String clickSearch="//input[@name='btnK']";
     JavascriptExecutor js=(JavascriptExecutor)driver;
     public mainMethods() {
         super();
